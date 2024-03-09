@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="container p-12 flex justify-between  ">
             <span>LOGO</span>
 
-            <p className=" text-slate-600    "   >All Rights Reserved</p>
+            <p className=" text-slate-600    "   >All Rights Reserved by GauravParasar ❤️</p>
         </div>
       
     </footer>
