@@ -1,4 +1,5 @@
 import AboutSection from "./components/AboutSection"
+import ContactMe from "./components/ContactMe"
 import ContactSection from "./components/ContactSection"
 import Footer from "./components/Footer"
 import HeroSection from "./components/HeroSection"
@@ -14,7 +15,8 @@ const page = () => {
   <HeroSection/>
   <AboutSection/>
 <ProjectSection/>
-<ContactSection/>
+{/* <ContactSection/> */}
+<ContactMe/>
       </div>
 <Footer/>
     </main>

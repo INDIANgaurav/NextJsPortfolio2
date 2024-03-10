@@ -29,8 +29,8 @@ const ContactSection = () => {
     console.log("before response");
     const response = await fetch(endpoint, options);
     console.log("after response", response);
-    const res = await response.json();
-    console.log(res);
+    const resData = await response.json();
+    console.log(resData);
     if (response.status === 200) {
       console.log("Message sent");
       setEmailSubmitted(true);
