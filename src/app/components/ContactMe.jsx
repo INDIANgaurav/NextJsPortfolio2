@@ -35,7 +35,8 @@ const ContactMe = () => {
         
 
  
-  <p  className="  font-bold text-white my-2  "> <span className=" text-xl font-bold text-primary-400 my-2  ">  Email :-</span>    gasharma512@gmail.com</p>
+  <p  className="  font-bold text-white my-2  "> <span className=" text-xl font-bold text-primary-400 my-2  ">  Email :-</span> 
+     gasharma512@gmail.com</p>
   <p  className="  font-bold text-white my-2  "> <span className=" text-xl font-bold text-secondary-500 my-2  ">  Contact :-</span>    +91 8053102896</p>
        
       
